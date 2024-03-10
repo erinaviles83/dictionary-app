@@ -1,6 +1,16 @@
+.App-header {
+  margin: 30px 0;
+}
+
+
 .Dictionary-logo {
   max-width: 200px;
   display: block;
   margin: 40px auto;
   opacity: 1;
+}
+
+.App-footer {
+  text-align: center;
+  margin: 30px 0;
 }
